@@ -1,0 +1,6 @@
+task manager
+myntra
+nike - tailwind 
+react + tailwind -(javascript mastery)
+weather app
+best ever portfolio website (one8 type)
