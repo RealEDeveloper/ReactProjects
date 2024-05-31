@@ -4,4 +4,4 @@ react + tailwind -(javascript mastery)
 myntra
 weather app
 best ever portfolio website (one8 type of website)
-if possible typescript + figma + saas project also
+if possible typescript + figma + make saas project also 
