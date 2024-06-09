@@ -9,7 +9,7 @@ function App() {
   let onButtonClick = (buttonText) =>{
    if(buttonText ==='C'){
     setCalVal("");
-   }else if(buttonText ==="="){
+   }else if(buttonText === "="){
     const result =eval(calVal);
     setCalVal(result);
    }else{
